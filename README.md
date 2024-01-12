@@ -81,4 +81,3 @@ We provide the model checkpoints for both version:
       primaryClass={cs.CV}
 }
 ```
->>>>>>> 6d36a8ebd667669298b64b9d33b543f4cd1c2876
